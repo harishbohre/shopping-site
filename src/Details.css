@@ -1,0 +1,15 @@
+.productimg img{    
+    height: 280px;
+    width: 200px
+}
+.productimg{
+    width: 100%;
+    text-align: center;
+}
+.label{
+    font-weight: bold;
+}
+.close-btn{
+    margin-top: 10px;
+    float: right;
+}

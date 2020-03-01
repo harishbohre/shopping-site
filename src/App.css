@@ -1,0 +1,40 @@
+#header {
+  height: 100%;
+  width: 100%;
+}
+#header h1 {
+  float: left;
+  margin-bottom: 20px;
+  height: 100%;  
+  margin-left:10px; 
+}
+/*#header img {
+  width: 100px;
+  float: left;
+}
+*/.marging10{
+  margin-bottom:10px;
+}
+.navbar {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.5rem 1rem;
+    background:#007bff;
+    color: #f2f2f2;
+}
+
+input[type=search] {
+	background: #555 url(http://hp-proliant.co.uk/qual_images/mob-search-icon.png) no-repeat 9px center;
+	border: solid 1px #ccc;
+	padding: 9px 10px 9px 32px;
+	width: 55px;
+}
+input[type=search]:focus {
+	width: 600px;
+	background-color: #ccc;
+	border-color: #333;
+	border: solid 1px #fff;
+}
