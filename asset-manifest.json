@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/shopping-site/static/css/main.5e719dbe.chunk.css",
+    "main.js": "/shopping-site/static/js/main.ad822283.chunk.js",
+    "main.js.map": "/shopping-site/static/js/main.ad822283.chunk.js.map",
+    "runtime-main.js": "/shopping-site/static/js/runtime-main.818eb08d.js",
+    "runtime-main.js.map": "/shopping-site/static/js/runtime-main.818eb08d.js.map",
+    "static/js/2.b31707b2.chunk.js": "/shopping-site/static/js/2.b31707b2.chunk.js",
+    "static/js/2.b31707b2.chunk.js.map": "/shopping-site/static/js/2.b31707b2.chunk.js.map",
+    "index.html": "/shopping-site/index.html",
+    "precache-manifest.3213c27660b5016a1c14e99962a5814f.js": "/shopping-site/precache-manifest.3213c27660b5016a1c14e99962a5814f.js",
+    "service-worker.js": "/shopping-site/service-worker.js",
+    "static/css/main.5e719dbe.chunk.css.map": "/shopping-site/static/css/main.5e719dbe.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.818eb08d.js",
+    "static/js/2.b31707b2.chunk.js",
+    "static/css/main.5e719dbe.chunk.css",
+    "static/js/main.ad822283.chunk.js"
+  ]
+}
